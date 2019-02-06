@@ -1,0 +1,2 @@
+# mpi
+Simple tiny MPI
